@@ -1,0 +1,56 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Gvim/Sequentional/d_ff
+vD_ff
+Z1 !s110 1756375578
+!i10b 1
+!s100 `Fn=jBf4l;3_9Z^Zog@1<1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I11^]HSIROHHUHKi1?Fdg92
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1756374134
+8d_ff.v
+Fd_ff.v
+!i122 9
+L0 1 14
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1756375577.000000
+!s107 d_ff.v|d_tb.v|
+Z6 !s90 -reportprogress|300|d_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+n@d_ff
+vtb
+R1
+!i10b 1
+!s100 ERUm4Ah_R;dnM4Z10gS>Y0
+R2
+IZRAe4k4[F2`9NADo4dcnz3
+R3
+R0
+w1756375573
+8d_tb.v
+Fd_tb.v
+!i122 9
+L0 2 25
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 d_ff.v|d_tb.v|
+R6
+!i113 1
+R7
