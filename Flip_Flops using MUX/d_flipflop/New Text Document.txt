@@ -1,0 +1,46 @@
+module mux_21(a,b,s,y);
+	input a,b,s;
+	output y;
+
+	assign y = s ? b : a;
+endmodule
+
+module d_latch(en,d,q);
+	input en,d;
+	output reg q;
+	wire mux_out;
+    mux_21 u1 (
+        .s(en),
+        .a(q),
+        .b(d),
+        .y(mux_out)
+    );
+
+    always @(*) begin
+        q = mux_out;
+    end
+endmodule
+
+module d_ff(clk,d,q,qbar);
+	input clk,d;
+	output reg q;
+	output qbar;
+	wire qm;
+
+	d_latch u2 (
+			.en(~clk),
+			.d(d),
+			.q(qm)
+	);
+
+	d_latch u3 (
+			.en(clk),
+			.d(qm),
+			.q(q)
+	);
+	
+	assign qbar = ~q;
+
+endmodule
+	
+		

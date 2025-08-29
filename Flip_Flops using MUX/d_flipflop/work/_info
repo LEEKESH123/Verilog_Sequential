@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Gvim/Sequential/Flip_Flops using MUX
+vd_ff
+Z0 !s110 1756475735
+!i10b 1
+!s100 LhQ84fNATA6>g^<lie<``0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ILc;iize4D:M59NLU?9N;n2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Gvim/Sequential/Flip_Flops using MUX/d_flipflop
+Z4 w1756475731
+Z5 8d_ff.v
+Z6 Fd_ff.v
+!i122 19
+L0 25 19
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1756475735.000000
+!s107 d_ff.v|d_tb.v|
+Z9 !s90 -reportprogress|300|d_tb.v|
+!i113 1
+Z10 tCvgOpt 0
+vd_latch
+R0
+!i10b 1
+!s100 n2OacIN1W[kC_b1VeKo8C0
+R1
+IXk7??hgPUi7EP^4e9nADj3
+R2
+R3
+R4
+R5
+R6
+!i122 19
+L0 8 16
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 d_ff.v|d_tb.v|
+R9
+!i113 1
+R10
+vmux_21
+R0
+!i10b 1
+!s100 A75OiRER5ASNzK9fBZ;n>1
+R1
+Io=5NmiHF@X0l;;l43Fh5G2
+R2
+R3
+R4
+R5
+R6
+!i122 19
+L0 1 6
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vtb
+R0
+!i10b 1
+!s100 mKNJW94bGHO8V9i_1MS^f2
+R1
+I:4[zKBP@[;iH1zbSgLJ;j2
+R2
+R3
+w1756468730
+8d_tb.v
+Fd_tb.v
+!i122 19
+L0 2 31
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10

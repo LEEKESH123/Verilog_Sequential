@@ -1,0 +1,55 @@
+module mux21(a,b,s,y);
+	input a,b,s;
+	output y;
+
+	assign y = s ? b : a;
+
+endmodule 
+
+module d_latch(en,d,q);
+	input en,d;
+	output q;
+	wire n1;
+	mux21 dut (
+		.a(n1),
+		.b(d),
+		.s(en),
+		.y(q)
+	);
+
+	assign q = n1;
+
+endmodule 
+
+
+module d_ff(clk,d,q);
+	input en,clk,d;
+	output q;
+	wire qm;
+
+	d_latch mas (
+		.en(~clk),
+		.d(d),
+		.q(qm)
+	);
+
+
+	d_latch slave (
+		.en(clk),
+		.d(qm),
+		.q(q)
+	);
+
+
+endmodule
+
+
+module jk_ff(clk,j,k,q);
+	input clk,j,k;
+	output q;
+
+	d_ff dut (clk 
+
+
+
+

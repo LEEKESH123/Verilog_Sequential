@@ -1,0 +1,121 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Gvim/Sequential/Flip_Flops using MUX/jk_flipflop
+vd_ff
+Z1 !s110 1756475023
+!i10b 1
+!s100 @FXn6A=KPX=;;Fbi7fH;h2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@;k?ga^LlcdEikgj5DkL22
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1756474338
+Z5 8jk_ff.v
+Z6 Fjk_ff.v
+!i122 5
+L0 26 20
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1756475023.000000
+!s107 jk_ff.v|jk_tb.v|
+Z9 !s90 -reportprogress|300|jk_tb.v|
+!i113 1
+Z10 tCvgOpt 0
+vd_latch
+R1
+!i10b 1
+!s100 :Oa]fQBchMFa26dXE`DCY1
+R2
+I<MgGB3iUQ4zJGJSl]lRh82
+R3
+R0
+R4
+R5
+R6
+!i122 5
+L0 9 15
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 jk_ff.v|jk_tb.v|
+R9
+!i113 1
+R10
+vjk_ff
+R1
+!i10b 1
+!s100 9Ld?PYmzLK03XNkAahm3B2
+R2
+I0cB?eVPSY<1S5Gc>gbP9<0
+R3
+R0
+R4
+R5
+R6
+!i122 5
+L0 48 16
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vmux21
+R1
+!i10b 1
+!s100 oE7[7OgJ]^]9<?7^BiVLJ1
+R2
+I_ba5h>Lhk]KQR`i_QU=DE0
+R3
+R0
+R4
+R5
+R6
+!i122 5
+L0 1 7
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vtb
+R1
+!i10b 1
+!s100 OG7obQBW:`T0MSL7b]N5E2
+R2
+IR^`VLD0KGNb76>Mm<2dWH3
+R3
+R0
+w1756475017
+8jk_tb.v
+Fjk_tb.v
+!i122 5
+L0 2 38
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
