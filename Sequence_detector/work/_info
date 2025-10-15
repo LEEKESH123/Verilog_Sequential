@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Gvim/Practice/Sequence_detector
+vmelay_fsm
+Z1 !s110 1760495811
+!i10b 1
+!s100 c?AdaeS6;Ca<M[UlnkaAU2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=0z8ORUm]ofOoK:M3`GE93
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1760495398
+8melay.v
+Fmelay.v
+!i122 1
+L0 2 64
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1760495811.000000
+!s107 melay.v|melay_tb.v|
+Z6 !s90 -reportprogress|300|melay_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 ]n<eIch0jkceW0>90XY2?0
+R2
+IKmCY8eC]Jdl>=ce[0[I9V1
+R3
+R0
+w1760495538
+8melay_tb.v
+Fmelay_tb.v
+!i122 1
+L0 3 28
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 melay.v|melay_tb.v|
+R6
+!i113 1
+R7
